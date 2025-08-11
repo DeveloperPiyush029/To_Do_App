@@ -36,5 +36,5 @@ Technologies Used
 
 *Clone this repository*
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone (https://github.com/DeveloperPiyush029/To_Do_App.git)
 cd <your-repo>
